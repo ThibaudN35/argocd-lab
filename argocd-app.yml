@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/votre-org/config-repo
+    repoURL: https://github.com/Thibaud35N/argocd-lab
     targetRevision: main
     path: nginx-demo
   destination:
